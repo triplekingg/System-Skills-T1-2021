@@ -1,3 +1,7 @@
+/* Name: Manit Gandhi
+ * ID: 6280004
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h> // For exit()
